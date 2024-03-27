@@ -1,0 +1,8 @@
+Used node.js and express.js for backend.
+
+-Installed all required modules.
+-Created a sample dataset in products.json
+-Created a server.js to implement POST, Get operations for registering company, then generating authentication token. Then retrieve data of a particular company of a particular category and in the specified range of value.
+
+My server is running successfully but i feel there is some error in my code by which the code is not retrieving data correctly.
+
